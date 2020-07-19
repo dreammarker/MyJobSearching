@@ -266,3 +266,8 @@
  - 토론에 적극적이신 분 but 동료를 배려하시는 분
  - 남일, 내일 가리지 않는 분
  
+  # 네이버 오픈 클래스 질문
+- 상시채용을 하고 있는 Global Ad Web Engineer 과 Global Ad SDK Engineer (Android, iOS, JS/WEB) 쪽으로도 신입 엔지니어가 들어갈 수 있나요?
+- Global AD Web Engineer 이 필요한 팀과 Global Ad SDK Engineer가 필요한 팀에서 고민하고 있는 부분이 무엇인지 알려주실수 있나요.? 
+- 회사 내에서 팀원들끼리 코드를 리뷰하는 시간을 가지나요?
+ 
